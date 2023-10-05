@@ -35,7 +35,5 @@ Este é um script Python que simula um sistema de controle bancário simples. El
 - O limite de saques e outros parâmetros podem ser ajustados conforme necessário.
 - Este script não lida com persistência de dados em um banco de dados real.
 
-## Licença
 
-- Este script está licenciado sob a [Sua Licença] - consulte o arquivo `LICENSE` para obter detalhes.
 
